@@ -1,8 +1,16 @@
-# React + Vite
+# React + Vite / React-Router-Dom
+![Principal](https://github.com/Spiderpaul/heroes/assets/87204262/406f0297-1b72-4da6-9301-b608ccb8745c)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Descripción
+Proyecto de React para prácticar el React-Router, haciendo uso de rutas públicas y privadas.
+![Rutas](https://github.com/Spiderpaul/heroes/assets/87204262/a730013d-23e6-4574-8cec-c8b90e7d6472)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Tecnologías utilizadas
+<ul>
+  <li>JavaScript</li>
+  <li>React + Vite</li>
+  <li>HTML5</li>
+  <li>Bootstrap</li>
+  <li>Git</li>
+  <li>GitHub</li>
+</ul>
